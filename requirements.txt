@@ -1,2 +1,2 @@
-http://GitHub.com/PrgOfficial/Pyrogram/archive/asyncio.zip
+http://GitHub.com/RincemonReji/pyrogram/archive/asyncio.zip
 TgCrypto
