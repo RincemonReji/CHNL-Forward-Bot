@@ -1,2 +1,2 @@
-https://github.com/pyrogram/pyrogram/archive/asyncio.zip
+https://github.com/prgoffical/pyrogram/archive/asyncio.zip
 TgCrypto
